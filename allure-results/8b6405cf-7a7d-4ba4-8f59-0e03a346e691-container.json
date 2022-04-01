@@ -1,0 +1,1 @@
+{"uuid":"8b6405cf-7a7d-4ba4-8f59-0e03a346e691","name":"Test.TC_001_OpenWebsiteTest","children":["1d5f5b29-966d-4383-a697-ac4a083d0309"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1647062872364,"stop":1647062876836}],"afters":[],"start":1647062872267,"stop":1647062890861}

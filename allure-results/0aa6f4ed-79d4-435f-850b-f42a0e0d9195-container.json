@@ -1,0 +1,1 @@
+{"uuid":"0aa6f4ed-79d4-435f-850b-f42a0e0d9195","name":"Test.TC_2_1_1_WorldTest","children":["a8f0f297-7846-4d06-93d1-b751bfd5eeab"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648526642893,"stop":1648526647176}],"afters":[],"start":1648526642799,"stop":1648526702690}

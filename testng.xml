@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="classes" thread-count="4">
+    <test name="Test1">
+        <classes>
+
+            <class name="Test.TC_001_OpenWebsiteTest" />
+            <class name="Test.TC_2_2_2_ShopOnTimeTest" />
+            <class name="Test.TC_2_1_2_BusinessTest" />
+            <class name="Test.TC_2_1_3_ScienceTest" />
+
+        </classes>
+    </test>
+</suite>

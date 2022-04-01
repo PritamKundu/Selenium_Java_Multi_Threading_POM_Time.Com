@@ -1,0 +1,1 @@
+{"uuid":"3395acf5-ef07-4916-af83-5d6603342ebe","name":"Test.TC_2_1_3_ScienceTest","children":["41ff44c5-a467-47f8-8f65-921b20320f6e"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648538405407,"stop":1648538412320}],"afters":[],"start":1648538405296,"stop":1648538480327}

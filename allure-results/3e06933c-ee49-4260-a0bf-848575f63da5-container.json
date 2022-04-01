@@ -1,0 +1,1 @@
+{"uuid":"3e06933c-ee49-4260-a0bf-848575f63da5","name":"Test.TC_2_1_2_BusinessTest","children":["67ce00ce-8e45-442a-a61f-69671d960752"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648528314543,"stop":1648528319063}],"afters":[],"start":1648528314430,"stop":1648528384129}

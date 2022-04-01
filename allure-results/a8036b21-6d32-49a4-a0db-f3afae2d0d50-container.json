@@ -1,0 +1,1 @@
+{"uuid":"a8036b21-6d32-49a4-a0db-f3afae2d0d50","name":"Test.TC_5_1_1_ManageAccountTest","children":["2ff81aa2-8157-41a1-b0d0-696400dc302d"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648541054842,"stop":1648541059072}],"afters":[],"start":1648541054764,"stop":1648541098977}

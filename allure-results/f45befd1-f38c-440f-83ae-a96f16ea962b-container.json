@@ -1,0 +1,1 @@
+{"uuid":"f45befd1-f38c-440f-83ae-a96f16ea962b","name":"Test.TC_004_SubscribeTest","children":["a14bdefb-3c93-4899-848d-bd61b6513e35"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648561723126,"stop":1648561728084}],"afters":[],"start":1648561723033,"stop":1648561751818}
