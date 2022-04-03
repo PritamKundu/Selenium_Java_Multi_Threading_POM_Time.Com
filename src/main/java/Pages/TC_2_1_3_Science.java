@@ -49,21 +49,19 @@ public class TC_2_1_3_Science {
 
  public void scrollDown1() {
   JavascriptExecutor jse = (JavascriptExecutor) driver;
-  jse.executeScript("window.scrollBy(0,3700)");
+  jse.executeScript("window.scrollBy(0,9700)");
  }
 
 
  public void socialMediaIcons() throws InterruptedException {
-  List<WebElement> mediaIcons = driver.findElements(By.xpath("/html/body/div[2]/div/main/div[2]/div[1]/div[3]/div/div[6]/div[2]/div/div/span"));
+  List<WebElement> mediaIcons = driver.findElements(By.xpath("/html/body/div[2]/div/main/div[2]/div[1]/div[3]/div/div[19]/div[2]/div/div/span"));
   int noOfIcons = mediaIcons.size();
-  String path = "(/html/body/div[2]/div/main/div[2]/div[1]/div[3]/div/div[6]/div[2]/div/div/span)";
+  String path = "(/html/body/div[2]/div/main/div[2]/div[1]/div[3]/div/div[19]/div[2]/div/div/span)";
   for (int i=1; i<noOfIcons; i++){
    String elementPath = path+"["+i+"]";
    driver.findElement(By.xpath(elementPath)).click();
   }
  }
-
-
 
 }
 

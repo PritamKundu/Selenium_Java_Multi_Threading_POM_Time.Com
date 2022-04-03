@@ -39,5 +39,4 @@ public class TC_5_2_1_HelpCenter {
             AllLink.click();
         }
     }
-
 }

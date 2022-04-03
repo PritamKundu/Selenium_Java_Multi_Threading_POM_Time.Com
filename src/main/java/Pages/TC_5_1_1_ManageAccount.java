@@ -9,15 +9,14 @@ import java.util.List;
 
 public class TC_5_1_1_ManageAccount {
 
+    WebDriver driver;
+
 
     public By myaccount = By.xpath("/html/body/header/nav[1]/div[1]/div[3]/div/div/button");
     public By manageaccount = By.xpath("/html/body/header/nav[1]/div[1]/div[3]/div/div/div/a[1]");
     public By subscriptionnumber = By.xpath("/html/body/div[1]/div[7]/input[1]");
     public By country = By.xpath("/html/body/div[1]/div[7]/select/option");
     public By linksubscription = By.xpath("/html/body/div[1]/div[7]/input[2]");
-
-
-    WebDriver driver;
 
 
     public TC_5_1_1_ManageAccount(WebDriver driver){

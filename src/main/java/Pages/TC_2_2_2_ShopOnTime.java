@@ -49,6 +49,7 @@ public class TC_2_2_2_ShopOnTime {
   JavascriptExecutor js = (JavascriptExecutor) driver;
   WebElement Shoptime = driver.findElement(ShopTime);
   js.executeScript("arguments[0].scrollIntoView();", Shoptime);
+
  }
 
  //Just click the sub menu Button
@@ -107,6 +108,8 @@ public class TC_2_2_2_ShopOnTime {
  public void addToCurt() {
   driver.findElement(addtocurt).click();
  }
+
+
 }
 
 
