@@ -9,7 +9,7 @@ public class TC_006_SearchTest extends Base {
     @Test
     public void homepageSearch() throws InterruptedException {
         driver.get(baseurl);
-        Thread.sleep(5000);
+        Thread.sleep(6000);
 
         TC_006_Search search = homepage.Search();
         search.clickIcon();
